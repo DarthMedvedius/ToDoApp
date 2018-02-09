@@ -1,6 +1,6 @@
-package com.nikitenko.todoapp.repository;
+package com.todoapp.repository;
 
-import com.nikitenko.todoapp.todoapp.ToDo;
+import com.todoapp.model.ToDo;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 

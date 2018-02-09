@@ -1,4 +1,4 @@
-package com.nikitenko.todoapp.todoapp;
+package com.todoapp.model;
 
 import com.vaadin.ui.Alignment;
 import com.vaadin.ui.CheckBox;
@@ -7,8 +7,8 @@ import com.vaadin.ui.TextField;
 
 public class ToDoLayout extends HorizontalLayout {
 
-    private final CheckBox done;
-    private final TextField text;
+    private CheckBox done;
+    private TextField text;
 
     public ToDoLayout(ToDo todo) {
         setSpacing(true);

@@ -1,4 +1,4 @@
-package com.nikitenko.todoapp.todoapp;
+package com.todoapp.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

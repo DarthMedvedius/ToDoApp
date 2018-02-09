@@ -1,6 +1,6 @@
-package com.nikitenko.todoapp.todoapp;
+package com.todoapp.model;
 
-import com.nikitenko.todoapp.repository.ToDoRepository;
+import com.todoapp.repository.ToDoRepository;
 import com.vaadin.ui.VerticalLayout;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

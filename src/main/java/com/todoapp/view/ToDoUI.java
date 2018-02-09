@@ -1,8 +1,7 @@
-package com.nikitenko.todoapp.ui;
-import com.nikitenko.todoapp.todoapp.ToDoList;
+package com.todoapp.view;
+import com.todoapp.model.ToDoList;
 import com.vaadin.annotations.Theme;
 import com.vaadin.server.FontAwesome;
-import com.vaadin.server.FontIcon;
 import com.vaadin.server.VaadinRequest;
 import com.vaadin.spring.annotation.SpringUI;
 import com.vaadin.ui.*;

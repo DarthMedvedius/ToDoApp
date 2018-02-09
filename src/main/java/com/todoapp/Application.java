@@ -1,12 +1,12 @@
-package com.nikitenko.todoapp.todoapp;
+package com.todoapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TodoappApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TodoappApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 }
